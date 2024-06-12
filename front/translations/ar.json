@@ -1,0 +1,45 @@
+{
+    
+    "LoginScreen": {
+        "usernameField": "اسم المستخدم",
+        "passwordField": "كلمة السر",
+        "buttonLogin" : "دخول",
+        "passFgt": "هل نسيت كلمت السر ؟",
+        "msgNewAccount": "افتح حساب جديد",
+        "buttonSignin" : "تسجيل الدخول",
+        "loginAlert": " ! تم الدخول بنجاح",
+        "loginAlert2": " ! خطأ في الدخول",
+        "orText": "أو"
+    },
+    "SigninScreen": {
+        "usernameField": "اسم المستخدم",
+        "passwordField": "كلمة السر",
+        "fullNameField": "الاسم واللقب",
+        "mailField": "العنوان الالكتروني",
+        "buttonSignin" : "تسجيل الدخول",
+        "signinAlert": "! تمت عملية التسجيل بنجاح"
+    },
+    "ProfileScreen": {
+        "usernameLabel": "",
+        "nomPrenomLabel": "",
+        "emailLabel": "",
+        "buttonLogout": ""
+    },
+    "TabNavigator": {
+        "homeTabLabel": "الاستقبال",
+        "eventTabLabel": "الأحداث",
+        "competitionTabLabel": "المسابقة",
+        "rankingTabLabel": "الترتيب",
+        "profileTabLabel": "الحساب"
+    },
+    "EventScreen": {
+        
+    },
+    "CompetitionScreen": {
+        
+    },
+    "RankingScreen": {
+        
+    }
+
+}

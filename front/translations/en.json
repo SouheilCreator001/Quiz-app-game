@@ -1,0 +1,44 @@
+{
+    "LoginScreen": {
+        "usernameField": "Username",
+        "passwordField": "Password",
+        "buttonLogin" : "Login",
+        "passFgt": "Forgot password ?",
+        "msgNewAccount": "Create new account",
+        "buttonSignin" : "Sign in",
+        "loginAlert": "Login Successfully !",
+        "loginAlert2": "Login Failed !",
+        "orText": "OR"
+    },
+    "SigninScreen": {
+        "usernameField": "Username",
+        "passwordField": "Password",
+        "fullNameField": "Full name",
+        "mailField": "Mail Address",
+        "buttonSignin" : "Sign in",
+        "signinAlert": "Signing in Successfully !",
+        "orText": "OU" 
+    },
+    "ProfileScreen": {
+        "usernameLabel": "",
+        "nomPrenomLabel": "",
+        "emailLabel": "",
+        "buttonLogout": ""
+    },
+    "TabNavigator": {
+        "homeTabLabel": "Home",
+        "eventTabLabel": "Events",
+        "competitionTabLabel": "Competition",
+        "rankingTabLabel": "Ranking",
+        "profileTabLabel": "Profile"
+    },
+    "EventScreen": {
+        
+    },
+    "CompetitionScreen": {
+        
+    },
+    "RankingScreen": {
+        
+    }
+}
